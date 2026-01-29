@@ -5,4 +5,4 @@ Nikhil Mundhra
 # Git Practice
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
-# [Link to merged Pull Request](https://github.com/Nikhil-Mundhra/i1-git-practice-amenaalrawi/commit/4aa76f3086737304741a3f95c54d279821e5aea3)
+# [Link to merged Pull Request](https://github.com/cs-uh-2012-spring26/i1-git-practice-amenaalrawi/pull/2)
