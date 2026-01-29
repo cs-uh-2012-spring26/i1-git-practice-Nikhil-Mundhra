@@ -11,6 +11,8 @@ The most interesting takeaway from this article is that AI is no longer just a c
 
 Equally important is the balanced view on impact and risk. While AI boosts speed, productivity, and accessibility through low-code and no-code tools, IBM stresses that human oversight remains critical. Issues like biased outputs, security vulnerabilities, and skill erosion mean AI works best when developers actively review and guide it. The core insight is that the future of software development is not AI versus developers, but AI plus developers, with judgment and creativity still firmly human.
 
+Amena: I personally enjoyed the section on job displacement because it doesn’t present AI as a threat that will replace software engineers, but as a tool that changes how they work. The article highlights that AI is something that augments human expertise instead of making it obsolete.
+
 ## Proof Reading
 
 Article checked for typos
