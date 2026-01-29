@@ -5,4 +5,8 @@ Nikhil Mundhra
 # Git Practice
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
-# [Link to merged Pull Request](https://github.com/cs-uh-2012-spring26/i1-git-practice-amenaalrawi/pull/2)
+# Pull Request
+
+* [Link to merged Pull Request](https://github.com/cs-uh-2012-spring26/i1-git-practice-amenaalrawi/pull/2)
+* Status: Merged
+* Date: January 29th, 2026
